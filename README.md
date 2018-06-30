@@ -6,3 +6,5 @@
     2: npm init -y
     3: parcel index.html
 
+# page with template:
+https://www.free-css.com/free-css-templates/page228/preevent
